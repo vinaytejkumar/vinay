@@ -33,12 +33,5 @@ public class Testing {
 		System.out.println(internal_count.toString());
 		System.out.println(external_count.toString());
 		
-		if(internal_mismatch == external_mismatch){
-			System.out.println("equal values"+internal_mismatch);
-		}
-		
-		
-		
-		}
-
+	}
 }
